@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💙
 
-Meu nome é Nicolly Mourão 
+Meu nome é Nicolly Mourão
 
-- Estou estudando na (Alura
+- Estou estudando na [Alura](https:\\www.alura.com.br
 
 - Estou me desenvolvendo na linguagem JavaScript
 
